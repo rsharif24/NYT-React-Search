@@ -1,0 +1,27 @@
+{
+  "name": "NYT-React-Search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsharif24/NYT-React-Search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsharif24/NYT-React-Search/issues"
+  },
+  "homepage": "https://github.com/rsharif24/NYT-React-Search#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongoose": "^4.11.13",
+    "request": "^2.83.0"
+  }
+}
